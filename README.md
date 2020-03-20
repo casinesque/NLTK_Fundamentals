@@ -1,2 +1,3 @@
 # NLTK_Fundamentals
-Corso collegato con Udemy NTLK for beginners.
+
+Linked repo with my Udemy NTLK for beginners course.
